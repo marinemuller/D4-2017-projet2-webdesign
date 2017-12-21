@@ -20,6 +20,7 @@ h1{
   font-weight: inherit;
   line-height: 2;
   text-align: center;
+  color: #000;
 }
 
 
@@ -29,6 +30,7 @@ h3{
   font-weight: inherit;
   line-height: 1;
   text-align: center;
+    color: #000;
 }
 
 h2 {
@@ -46,7 +48,22 @@ h4{
   font-weight: inherit;
   line-height: 0.2;
   color: #18307a;
+}
 
+h5{
+  margin: 1.414em 0.5em;
+  font-family: 'Oleo Script', cursive;
+  font-weight: inherit;
+  line-height: 1.8;
+  color: #fe628e;
+}
+
+h6{
+  margin: 1.414em 0.5em;
+  font-family: 'Oleo Script', cursive;
+  font-weight: inherit;
+  line-height: 1.8;
+  color: #ffffff;
 }
 
 h1 {
